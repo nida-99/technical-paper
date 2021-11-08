@@ -46,6 +46,7 @@ SOA acts as a very powerful business tool as it can impact the entire business. 
 
 SOA may not always be the best choice for the organization as there are different additional requirements to be the optimal solution. The implementation of SOA requires huge investments through technology and human resources. Using too many services or managing multiple services could be challenging. It is not desirable for stand-alone, non-distributed applications and short-term applications that do not have much scope. SOA applications have to deal with large amounts of data which becomes a scalability bottleneck [7].
 
+***
 
 ## REFERENCES
 
